@@ -1,17 +1,19 @@
-## Awesome SaaS User Documentation Checklist
-
-- [ ] If this is the first piece of documentation you're writing, please try to think about structure. Structure is extremely important to ensure users can easily find what they're looking for. You can have the greatest documentation ever, if you don't pair that with a good information structure your users might as well become frustrated as if you didn't have any.
-    * E.g. Here are some good links on how to build a good information structure for your docs:
-   - [ ] [Best Practices to Improve Knowledge Base Information Architecture](https://document360.io/blog/knowledge-base-information-architecture/)
-   - [ ] [9 tips for awesome user documentation (with examples)](https://www.techsmith.com/blog/awesome-user-documentation/)
-   - [ ] [How to build the best user documentation](https://www.techsmith.com/blog/user-documentation/)
-   - [ ] [4 steps to creating great user documentation](https://formidableforms.com/4-steps-to-creating-great-end-user-documentation/)
-    * E.g. You can also get some inspiration by taking a look at some good product documentations out there:
-   - [ ] [Skype for Windows](https://support.skype.com/en/skype/windows-desktop/) - Notice how clean the docs' structure looks. There are big icons and subtitles that fit the end-users' main concerns.
-   - [ ] [Asana](https://asana.com/pt/guide) - Asana itself is pretty self-explanatory and often users only need some exploration time before using their product. Nonetheless, they have a great user documentation structure covering from total newcomers to advanced users looking to achieve more complex tasks. Huge kudos for the amount of videos and images!
-   - [ ] [Todoist](https://doist.com/blog/how-to-use-todoist-effectively/) - This is a piece of documentation that focuses on introducing the product to new users. It's clean and straightforward!
-- [ ] Make sure you are being objective. You need to maintain readers interested and help them find what they need with ease.
-- [ ] Think about your formatting, it's extremely important! For example, look at how this small change makes the text look much more intelligible:
+## Disclaimer
+##### If this is the first piece of documentation you're writing, please try to think about structure. Structure is extremely important to ensure users can easily find what they're looking for. You can have the greatest documentation ever, if you don't pair that with a good information structure your users might as well become frustrated as if you didn't have any. Here are some good links on how to build a good information structure for your docs:
+  * [ ] [Best Practices to Improve Knowledge Base Information Architecture](https://document360.io/blog/knowledge-base-information-architecture/)
+  * [ ] [9 tips for awesome user documentation (with examples)](https://www.techsmith.com/blog/awesome-user-documentation/)
+  * [ ] [How to build the best user documentation](https://www.techsmith.com/blog/user-documentation/)
+  * [ ] [4 steps to creating great user documentation](https://formidableforms.com/4-steps-to-creating-great-end-user-documentation/)
+## You can also get some inspiration by taking a look at some good product documentations out there:
+  * [ ] [Skype for Windows](https://support.skype.com/en/skype/windows-desktop/)
+    * Notice how clean the docs' structure looks. There are big icons and subtitles that fit the end-users' main concerns.
+  * [ ] [Asana](https://asana.com/pt/guide)
+    * Asana itself is pretty self-explanatory and often users only need some exploration time before using their product. Nonetheless, they have a great user documentation structure covering from total newcomers to advanced users looking to achieve more complex tasks. Huge kudos for the amount of videos and images!
+  * [ ] [Todoist](https://doist.com/blog/how-to-use-todoist-effectively/)
+    * This is a piece of documentation that focuses on introducing the product to new users. It's clean and straightforward!
+## Make sure you are being objective
+* [ ] You need to maintain readers interested and help them find what they need with ease.
+* [ ] Think about your formatting, it's extremely important! For example, look at how this small change makes the text look much more intelligible:
 
 -------------------------------------------------------------------------
 
@@ -64,19 +66,19 @@ from everyone you follow. You can also interact with these Tweets in various way
 
 -------------------------------------------------------------------------
 
-- [ ] Think about the product feature's use cases. **List them out and make sure all cases are there.** Having hands-on experience is a huge help, so try all flows out in your system. After that, focus on writing the _consequences_ of each case and their actions.
+* [ ] Think about the product feature's use cases. **List them out and make sure all cases are there.** Having hands-on experience is a huge help, so try all flows out in your system. After that, focus on writing the _consequences_ of each case and their actions.
 - E.g. It might help you if you write down a list of all actions that can be performed under a certain feature!
-- [ ] Ensure you are explaining (relevant) things thoroughly and don't take things for granted. Please keep in mind that you, as a developer or technical writer, are biased.
+* [ ] Ensure you are explaining (relevant) things thoroughly and don't take things for granted. Please keep in mind that you, as a developer or technical writer, are biased.
 - E.g. Maybe it's obvious to you that by performing a certain action, an email will be sent to certain users. Always explicate these types of behaviors that might seem obvious to you but might not be to the end user.
-- [ ] Reflect about the language you want to use. If your audience is technical, get technical. If your audience is non-technical, don't use technical terms unless needed (and even so, explain them!) and think about what really matters to the reader.
-- [ ] As an extension of the previous topic, make sure you are using language that your reader is accustomed with.
+* [ ] Reflect about the language you want to use. If your audience is technical, get technical. If your audience is non-technical, don't use technical terms unless needed (and even so, explain them!) and think about what really matters to the reader.
+* [ ] As an extension of the previous topic, make sure you are using language that your reader is accustomed with.
 - E.g. It might be called "profile `title`" in your database, but saying that when the user knows it as "Page name" is inefficient. Be careful not to let these words slip out when writing your docs.
-- [ ] If you find yourself trying to explain a flow that would become extensive like this: `First access the menu by clicking at the gear icon, then navigate to View my profile. After that just click` it might be better to include a GIF recording of the flow **along with the text**.
+* [ ] If you find yourself trying to explain a flow that would become extensive like this: `First access the menu by clicking at the gear icon, then navigate to View my profile. After that just click` it might be better to include a GIF recording of the flow **along with the text**.
 - E.g. "Here's how to change your Twitter username: In the sidebar menu, click on the 'More' option and navigate to 'Settings and privacy'. Click on 'Account' and proceed to change your username by going under 'Login and security' and clicking on username. Don't forget to save after changing it!"
 ![Changing Twitter username](https://i.ibb.co/0KC7FY4/gifntext-gif.gif)
-- [ ] Images are underestimated. Humans are visual beings and inserting a picture or a recording of your product **along with its textual counterpart** will make users better understand what you're meaning to say.
-- [ ] Try to have another person look at your documentation to ensure everything looks good. If it's a good practice to have PR reviews, it's also a good practice to have Documentation reviews!
-- [ ] If you can, run some documentation testing by asking regular people to read your docs and try to use the feature you're writing docs for. Watch them using the product and don't interfere. Observe and write down what they had trouble with and ask them about it in the end. This way you'll be able to identify blind spots in your documentation.
+* [ ] Images are underestimated. Humans are visual beings and inserting a picture or a recording of your product **along with its textual counterpart** will make users better understand what you're meaning to say.
+* [ ] Try to have another person look at your documentation to ensure everything looks good. If it's a good practice to have PR reviews, it's also a good practice to have Documentation reviews!
+* [ ] If you can, run some documentation testing by asking regular people to read your docs and try to use the feature you're writing docs for. Watch them using the product and don't interfere. Observe and write down what they had trouble with and ask them about it in the end. This way you'll be able to identify blind spots in your documentation.
 
 
 Sources:
