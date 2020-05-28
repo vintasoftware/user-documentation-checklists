@@ -4,6 +4,7 @@
   * [ ] [9 tips for awesome user documentation (with examples)](https://www.techsmith.com/blog/awesome-user-documentation/)
   * [ ] [How to build the best user documentation](https://www.techsmith.com/blog/user-documentation/)
   * [ ] [4 steps to creating great user documentation](https://formidableforms.com/4-steps-to-creating-great-end-user-documentation/)
+## Product Documentations
 ##### You can also get some inspiration by taking a look at some good product documentations out there:
   * [ ] [Skype for Windows](https://support.skype.com/en/skype/windows-desktop/)
     * Notice how clean the docs' structure looks. There are big icons and subtitles that fit the end-users' main concerns.
