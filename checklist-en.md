@@ -14,9 +14,9 @@
     * This is a piece of documentation that focuses on introducing the product to new users. It's clean and straightforward!
 
 ## Sources:
-  * [Create Killer SaaS Product Documentation for Your Customers](https://document360.io/blog/saas-product-documentation-software/)
-  * [Building better documentation](https://www.atlassian.com/software/confluence/documentation)
-  * [10 tips for structuring your product documentation](https://developerhub.io/blog/10-tips-for-structuring-your-product-documentation/)
-  * [12 Best Examples of Product Documentation and Help Guides](https://documentor.in/2148/best-examples-product-documentation-guides/)
-  * [5 Steps to Create Technical Documentation That’s (Actually) Helpful](https://plan.io/blog/technical-documentation/)
-  * [6 Tips for Creating Meaningful Product Documentation](http://www.novatekcom.com/blog/bid/379708/6-tips-for-creating-product-documentation-that-talks-to-your-customer)
+  * [ ] [Create Killer SaaS Product Documentation for Your Customers](https://document360.io/blog/saas-product-documentation-software/)
+  * [ ] [Building better documentation](https://www.atlassian.com/software/confluence/documentation)
+  * [ ] [10 tips for structuring your product documentation](https://developerhub.io/blog/10-tips-for-structuring-your-product-documentation/)
+  * [ ] [12 Best Examples of Product Documentation and Help Guides](https://documentor.in/2148/best-examples-product-documentation-guides/)
+  * [ ] [5 Steps to Create Technical Documentation That’s (Actually) Helpful](https://plan.io/blog/technical-documentation/)
+  * [ ] [6 Tips for Creating Meaningful Product Documentation](http://www.novatekcom.com/blog/bid/379708/6-tips-for-creating-product-documentation-that-talks-to-your-customer)
