@@ -14,8 +14,10 @@
 ## Make sure you are being objective
 * [ ] You need to maintain readers interested and help them find what they need with ease.
 * [ ] Think about your formatting, it's extremely important! For example, look at how this small change makes the text look much more intelligible:
+
 E.g. BAD TIMELINE:
 In this screen, you can view your timeline, which contains the most relevant Tweets from everyone you  follow. You can also interact with these Tweets by: liking them, which you can do by clicking at the heart button in the Tweet's card. It will send a notification out to the writer of the Tweet if your Twitter is set to public, if it's set to private this notification will not be sent, unless the writer of the Tweet follows you. Every time you like a Tweet, it will also appear under your liked Tweets in your profile page. Please note that everyone will be able to see which Tweets you've liked if your Twitter account is set to public. If it's set to private only your followers will be able to see your liked Tweets; retweeting them. You can retweet Tweets by clicking at the two revolving arrows button in the Tweet's card. This will make the retweeted Tweets appear in your own profile, and send out a notification to the Tweet's writer if your Twitter account is set to public. If it's set to private it will not send a notification to the writer unless they follow you; or replying to them...
+
 E.g. GOOD TIMELINE: 
 
 ### TIMELINE
