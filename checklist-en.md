@@ -1,5 +1,3 @@
-## Awesome SaaS User Documentation Checklist
-
 - [ ] If this is the first piece of documentation you're writing, please try to think about structure. Structure is extremely important to ensure users can easily find what they're looking for. You can have the greatest documentation ever, if you don't pair that with a good information structure your users might as well become frustrated as if you didn't have any.
 - [ ] Here are some good links on how to build a good information structure for your docs:
    - [ ] [Best Practices to Improve Knowledge Base Information Architecture](https://document360.io/blog/knowledge-base-information-architecture/)
